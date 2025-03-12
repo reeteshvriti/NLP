@@ -1,3 +1,0 @@
-
-ICD-10 codes classify diseases, symptoms, and procedures in healthcare.
-The goal is to automate code assignment using ClinicalBERT, reducing manual effort and improving accuracy.
