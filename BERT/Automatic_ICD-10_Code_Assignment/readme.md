@@ -18,3 +18,6 @@ Expected Outcomes:
 A trained ClinicalBERT model capable of predicting ICD-10 codes with high accuracy.
 Performance evaluation using Precision@k, Recall@k, and F1-score.
 A user-friendly interface (API/Web App) for healthcare professionals to input clinical text and receive automated ICD-10 code predictions.
+
+
+Refrence paper link -  https://arxiv.org/pdf/1904.03323
