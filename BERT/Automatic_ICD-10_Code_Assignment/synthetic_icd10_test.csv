@@ -1,0 +1,2001 @@
+HADM_ID,TEXT,ICD10_CODE
+408107,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+300050,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+458256,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+299220,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+807458,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+802355,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+561351,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+779967,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+952992,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+992370,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+899418,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+835562,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+202265,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+555111,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+679433,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+100871,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+403879,"Mild anemia observed, advised iron supplementation.",N39.0
+486653,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+206152,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+757226,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+538597,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+959272,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+186593,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E78.5
+861587,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+628695,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+384750,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+858401,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+481672,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+190145,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+799211,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+728281,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,L40.9
+313129,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+779112,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+847018,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,D64.9
+711637,"Mild anemia observed, advised iron supplementation.",J45.909
+524317,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+596755,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+175012,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+175425,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+510038,"Mild anemia observed, advised iron supplementation.",E78.5
+641062,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+467974,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+739261,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+586586,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+885076,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+810767,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+445512,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+280887,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+332961,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+966977,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+237690,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+905239,"Severe urinary tract infection, treated with IV antibiotics.",R07.9
+241626,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+660319,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+563890,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+986817,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+280698,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+913267,"Mild anemia observed, advised iron supplementation.",M25.561
+993219,Hypertensive crisis. Patient stabilized with IV medication.,I25.10
+709532,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+514537,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+801711,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+223104,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+372316,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+850735,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+108547,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+632256,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+106473,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+501449,"Severe urinary tract infection, treated with IV antibiotics.",R07.9
+915334,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+309943,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+455787,"Mild anemia observed, advised iron supplementation.",I48.91
+132098,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+787782,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+223183,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+781798,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+558667,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+681457,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+972463,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+907824,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+153836,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+146460,"Mild anemia observed, advised iron supplementation.",M54.5
+374509,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+139661,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+761743,"Mild anemia observed, advised iron supplementation.",N18.9
+802898,"Mild anemia observed, advised iron supplementation.",I48.91
+174741,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+378554,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+964241,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+522570,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+756174,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+300754,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+562464,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+114677,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+930704,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+489613,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+997044,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+360664,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+549502,"Mild anemia observed, advised iron supplementation.",L40.9
+828739,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+844070,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+649175,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+232702,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+938247,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+816695,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+400453,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+266913,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+440089,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+757277,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+488534,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+186237,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+899483,Hypertensive crisis. Patient stabilized with IV medication.,I25.10
+840305,"Mild anemia observed, advised iron supplementation.",R07.9
+370961,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+877195,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+391145,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+747247,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+509656,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+567296,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+542933,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+415823,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+479529,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+961359,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+996405,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+889381,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+306420,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+232679,"Mild anemia observed, advised iron supplementation.",I48.91
+259275,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+667105,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+826983,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+743433,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+922146,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+363144,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+343149,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+729112,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+131745,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+521058,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+393531,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+374589,"Mild anemia observed, advised iron supplementation.",E11.9
+440209,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+143374,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+461744,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+735404,"Severe urinary tract infection, treated with IV antibiotics.",R07.9
+125604,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+595945,"Severe urinary tract infection, treated with IV antibiotics.",R07.9
+371669,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+421378,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+554744,"History of coronary artery disease, underwent angioplasty last year.",I10
+560363,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+436984,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+529390,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+974508,"Severe urinary tract infection, treated with IV antibiotics.",I10
+766182,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+797276,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+864934,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+261529,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+111001,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+366326,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+501434,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+371350,"Mild anemia observed, advised iron supplementation.",I48.91
+331859,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+206003,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E11.9
+813254,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+210651,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+676566,"Mild anemia observed, advised iron supplementation.",L40.9
+104343,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+871304,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+967289,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+410568,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+537108,Hypertensive crisis. Patient stabilized with IV medication.,I10
+338887,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+525810,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+153384,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+327662,"Mild anemia observed, advised iron supplementation.",K21.9
+879861,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+707703,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+560118,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+410229,"Mild anemia observed, advised iron supplementation.",E78.5
+708747,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+667225,"Severe urinary tract infection, treated with IV antibiotics.",I10
+767574,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+552386,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+651367,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+753312,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+860567,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+445409,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+433419,"Mild anemia observed, advised iron supplementation.",K50.90
+146411,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+178912,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+593757,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+696327,"Mild anemia observed, advised iron supplementation.",N39.0
+196265,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+629187,"Mild anemia observed, advised iron supplementation.",R07.9
+211498,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+694350,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+243295,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+467826,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+507424,"Hyperlipidemia detected, patient advised on statin therapy.",F41.1
+442299,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+515529,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+520881,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+954018,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+442037,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+457659,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+826369,"Mild anemia observed, advised iron supplementation.",E11.9
+474974,"History of coronary artery disease, underwent angioplasty last year.",I10
+780067,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+672622,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+658336,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+331131,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+962363,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+603525,"Mild anemia observed, advised iron supplementation.",E78.5
+383614,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+311686,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+310105,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+406416,"Mild anemia observed, advised iron supplementation.",R07.9
+142556,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+942449,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+658828,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+980353,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+413787,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+252542,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+812687,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+800372,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+166303,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+139065,"Mild anemia observed, advised iron supplementation.",N39.0
+284395,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+699838,"Mild anemia observed, advised iron supplementation.",I25.10
+522692,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+591332,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+133296,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+356751,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+263108,"Mild anemia observed, advised iron supplementation.",N18.9
+682913,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+741895,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+238430,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+492443,"Mild anemia observed, advised iron supplementation.",J18.9
+350317,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+365889,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+136163,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+698659,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+175816,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+866558,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+463428,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+148472,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+806915,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+600540,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+163851,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+726286,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+846457,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+880286,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+302219,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+875970,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+808531,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+977488,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+439657,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+703202,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+272770,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+726663,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+922419,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+252479,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+829809,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+838465,"Hyperlipidemia detected, patient advised on statin therapy.",E03.9
+253276,"Severe urinary tract infection, treated with IV antibiotics.",I10
+159486,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+420129,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+806306,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+667242,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+405183,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+816047,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+717724,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+594361,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+787451,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+590857,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+916543,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+972491,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+272967,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+860675,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+370140,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+109038,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+820738,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+968863,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+675536,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+689078,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+909931,"Atrial fibrillation detected, anticoagulation therapy initiated.",J45.909
+461821,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+606276,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+452920,"Hyperlipidemia detected, patient advised on statin therapy.",E03.9
+206474,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+287858,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+470967,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+130440,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+399626,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+827695,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+803672,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+413667,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+468699,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+932670,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+237593,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+304718,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+615406,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+210499,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+885222,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+278987,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+973835,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+810769,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+859441,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+986489,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+419618,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+943244,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+292487,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+892106,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+377979,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+140920,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+842803,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+195073,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+676158,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+901435,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+342667,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+699710,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+457133,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+114477,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+156682,Hypertensive crisis. Patient stabilized with IV medication.,I10
+570463,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+407217,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+219008,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+450436,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+807908,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+706368,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+406680,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+926508,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+384280,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+684044,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+495380,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+351752,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+581316,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+252531,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+870971,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+452546,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+625397,"Mild anemia observed, advised iron supplementation.",G47.33
+977293,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+842137,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+230479,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+645046,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+645230,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+641351,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+751647,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+596553,"Mild anemia observed, advised iron supplementation.",K50.90
+304304,"Mild anemia observed, advised iron supplementation.",E11.9
+618887,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+974362,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+376812,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+477480,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+787327,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+123127,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+794554,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+527852,"Mild anemia observed, advised iron supplementation.",F41.1
+534639,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+638161,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+613508,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+756520,"Severe urinary tract infection, treated with IV antibiotics.",R07.9
+655259,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+975656,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+251641,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+969697,"Mild anemia observed, advised iron supplementation.",N18.9
+176120,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+597937,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+318766,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+816630,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+450704,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+828534,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+745822,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+585206,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+541097,"Hyperlipidemia detected, patient advised on statin therapy.",F41.1
+559210,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+622359,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+473581,"Mild anemia observed, advised iron supplementation.",N39.0
+815763,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+723107,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+970068,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+428845,"Mild anemia observed, advised iron supplementation.",N39.0
+220509,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+114301,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+181616,"Mild anemia observed, advised iron supplementation.",E03.9
+235859,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+407184,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+526557,"Mild anemia observed, advised iron supplementation.",G44.209
+232283,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+114002,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+164218,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+496103,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+490958,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+369173,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+224730,"Mild anemia observed, advised iron supplementation.",J18.9
+919333,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+334280,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+704442,"Mild anemia observed, advised iron supplementation.",D64.9
+813335,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+215523,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+218779,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+167115,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+187949,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+275235,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+938567,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+494983,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+582654,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+821762,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+910462,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+475745,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+515011,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+419137,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+326286,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+633564,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+978373,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+603841,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+956962,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+838794,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+374821,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+641415,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+896443,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+901161,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+747155,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+684969,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+164120,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+492127,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+143131,"Mild anemia observed, advised iron supplementation.",R07.9
+865549,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+767630,"Mild anemia observed, advised iron supplementation.",N18.9
+185059,"Mild anemia observed, advised iron supplementation.",G44.209
+369561,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+388335,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+111892,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+809421,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+820069,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+708898,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+650831,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+948721,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+941160,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+296662,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+844208,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+484182,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+686083,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+994951,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+994806,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+924936,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+844019,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+600055,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+321216,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+380087,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+247666,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+997750,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+543964,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+179695,"Mild anemia observed, advised iron supplementation.",E78.5
+982351,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+669428,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+624297,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+396406,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+890422,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+652019,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+829845,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+979876,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+377386,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+510675,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+593040,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+624533,"Mild anemia observed, advised iron supplementation.",N18.9
+798743,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+457968,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+185261,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+618162,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+464833,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+624985,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+472687,"Mild anemia observed, advised iron supplementation.",E11.9
+836714,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+406204,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+711166,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+555791,"Mild anemia observed, advised iron supplementation.",L40.9
+518779,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+430453,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+525017,Hypertensive crisis. Patient stabilized with IV medication.,I25.10
+509188,"Mild anemia observed, advised iron supplementation.",R07.9
+957492,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+610865,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+600175,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+520423,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+782354,"Mild anemia observed, advised iron supplementation.",J18.9
+568835,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+988349,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+785672,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+555596,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+294946,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+964434,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+497324,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+105506,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+247718,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+781888,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+930130,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+559449,"Mild anemia observed, advised iron supplementation.",I48.91
+252356,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E78.5
+241988,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+428452,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+256328,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+262786,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+238140,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+404928,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+994054,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+597538,"Mild anemia observed, advised iron supplementation.",R07.9
+927232,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+897443,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+981312,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+760329,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+905068,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+274115,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+878909,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+862353,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+838025,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+546204,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+389638,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+595331,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+707564,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+561618,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+221209,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+105238,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+858211,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+848316,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+899925,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+709439,"Mild anemia observed, advised iron supplementation.",I48.91
+857122,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+529760,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+924958,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+531815,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+220529,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+346764,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+624655,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+949922,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+178702,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+621151,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+512712,"Mild anemia observed, advised iron supplementation.",I48.91
+191356,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+156604,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+483355,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+854852,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+971171,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+977229,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+224117,"Mild anemia observed, advised iron supplementation.",M54.5
+755942,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+237416,"History of coronary artery disease, underwent angioplasty last year.",I10
+400557,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+294425,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+892012,"Mild anemia observed, advised iron supplementation.",D64.9
+795984,"Mild anemia observed, advised iron supplementation.",E78.5
+939123,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+957152,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+885524,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E78.5
+656332,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+422545,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+467088,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+671575,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+529797,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+756882,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+409480,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+478060,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+531213,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+264577,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+923873,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+572454,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+311785,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+574153,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+144417,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+871269,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+758756,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+319747,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+594180,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+436464,"Hyperlipidemia detected, patient advised on statin therapy.",E03.9
+117043,"Mild anemia observed, advised iron supplementation.",G44.209
+830682,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+494142,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+952390,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+817995,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+156724,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+577014,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+601259,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+422739,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+294144,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+908999,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+659997,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+863669,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+836093,"Mild anemia observed, advised iron supplementation.",N39.0
+838356,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+421686,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+780283,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+201680,"Mild anemia observed, advised iron supplementation.",K50.90
+892847,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+222412,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+681966,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+486666,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+727249,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+286331,"Severe urinary tract infection, treated with IV antibiotics.",I10
+496572,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+505341,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+706162,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+869250,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+726615,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+871136,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+654848,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+290441,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+175763,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+251552,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+745094,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+432307,"Mild anemia observed, advised iron supplementation.",L40.9
+591149,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+214433,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+473896,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+123197,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+129568,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+258676,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+860557,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+165524,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,L40.9
+607198,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+846443,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+454626,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+397948,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+822354,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+461473,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+219428,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+535742,"Mild anemia observed, advised iron supplementation.",F41.1
+738109,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+225177,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+202641,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+748256,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+898132,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+347397,"Mild anemia observed, advised iron supplementation.",J45.909
+397489,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+689255,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+231379,"Mild anemia observed, advised iron supplementation.",J18.9
+510017,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+609222,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+839717,Hypertensive crisis. Patient stabilized with IV medication.,I10
+258255,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+875174,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+660541,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+659538,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+668514,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+211083,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+109976,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+461595,"Hyperlipidemia detected, patient advised on statin therapy.",E03.9
+467131,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+180094,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+869465,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+958290,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+200297,"Mild anemia observed, advised iron supplementation.",M54.5
+703319,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+381334,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+413020,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+166567,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+901153,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+662910,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+323667,"Mild anemia observed, advised iron supplementation.",E11.9
+498624,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+879172,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+692462,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+555684,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+300217,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+876180,"Mild anemia observed, advised iron supplementation.",K21.9
+393375,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+962327,"Mild anemia observed, advised iron supplementation.",I25.10
+857269,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+179076,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+870157,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+191923,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+277635,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+550488,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+996043,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E78.5
+973842,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+415563,"Mild anemia observed, advised iron supplementation.",N18.9
+532293,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+916591,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+662058,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+989685,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+273695,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+119573,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+648824,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+319985,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+188429,"Hyperlipidemia detected, patient advised on statin therapy.",F41.1
+866015,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+541723,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+106493,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E03.9
+297196,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+447479,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+771342,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+493325,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+929043,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+941795,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+704855,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+303935,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+400552,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+490648,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+748904,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+807112,Hypertensive crisis. Patient stabilized with IV medication.,I25.10
+567437,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+152693,"Mild anemia observed, advised iron supplementation.",D64.9
+648114,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+972024,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+173483,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+863270,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+957371,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+301284,"Mild anemia observed, advised iron supplementation.",E78.5
+820658,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+942268,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+697548,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+187958,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+358640,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E78.5
+102168,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+225297,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+750707,"Mild anemia observed, advised iron supplementation.",M54.5
+800961,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+816821,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+486873,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+141100,"Mild anemia observed, advised iron supplementation.",M25.561
+259742,"Atrial fibrillation detected, anticoagulation therapy initiated.",J45.909
+156826,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+147353,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+284557,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+632771,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+494500,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+446553,"Mild anemia observed, advised iron supplementation.",N39.0
+270583,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,D64.9
+284160,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+363168,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+671642,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+191913,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+509012,"Mild anemia observed, advised iron supplementation.",M54.5
+101784,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+685142,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+228289,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+569192,"Severe urinary tract infection, treated with IV antibiotics.",I10
+882404,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+368192,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+135404,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+788521,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+423175,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+450524,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+283933,Hypertensive crisis. Patient stabilized with IV medication.,I10
+265681,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+882789,"Mild anemia observed, advised iron supplementation.",N39.0
+731592,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+987448,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+581409,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+403771,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+805160,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+528528,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+725946,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+204385,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+810228,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+888944,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+638401,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+604444,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+161001,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E11.9
+877990,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+153719,"Atrial fibrillation detected, anticoagulation therapy initiated.",J45.909
+395681,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E78.5
+944664,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+510496,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+235872,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+245376,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+431937,"History of coronary artery disease, underwent angioplasty last year.",N18.9
+257478,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+233394,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+389793,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+898321,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+260923,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+311483,"Mild anemia observed, advised iron supplementation.",I25.10
+524634,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+679996,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+391924,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+141774,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+659195,"Mild anemia observed, advised iron supplementation.",K50.90
+300120,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+787015,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+241711,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+355726,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+402439,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+441133,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+760874,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+703405,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+282518,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+570037,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+449529,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+262152,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+415888,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+447276,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+515910,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+620008,"Mild anemia observed, advised iron supplementation.",E03.9
+727247,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+909335,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+662711,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+284180,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+417084,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+765237,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+747081,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+824879,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+152572,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+999843,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+902406,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+707868,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+161829,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+942522,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+307637,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+353127,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+173104,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+224730,"History of coronary artery disease, underwent angioplasty last year.",N18.9
+221474,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+396709,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+853450,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+774965,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+760744,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+297883,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+398429,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+556278,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+498379,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+158682,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+892241,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+345288,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+663758,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+296942,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+124192,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+748806,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+664783,"Mild anemia observed, advised iron supplementation.",I25.10
+696484,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+356531,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+815525,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+911381,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+764825,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+386235,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+168199,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+993945,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+255736,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+989340,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+791288,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+548757,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+200800,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+138854,"Severe urinary tract infection, treated with IV antibiotics.",I10
+158698,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+395876,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+276494,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+868733,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+798553,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+669879,"Mild anemia observed, advised iron supplementation.",M25.561
+573589,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+767630,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+992708,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+930583,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+446256,"Mild anemia observed, advised iron supplementation.",I48.91
+584661,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+741773,"Mild anemia observed, advised iron supplementation.",J45.909
+598568,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+447070,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+675270,"Mild anemia observed, advised iron supplementation.",N39.0
+128006,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+744309,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+601230,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+731965,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+423665,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+228410,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+460796,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+645416,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+988864,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+505227,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+605301,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+861163,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+890346,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+356044,"Mild anemia observed, advised iron supplementation.",G47.33
+842570,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+766697,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+862239,"Mild anemia observed, advised iron supplementation.",J45.909
+117698,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+118953,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+459510,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+646329,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+333752,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E11.9
+780768,"Mild anemia observed, advised iron supplementation.",E11.9
+756979,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+715883,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+559032,"Mild anemia observed, advised iron supplementation.",I48.91
+355753,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+935571,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+627865,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+600744,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+503919,"Mild anemia observed, advised iron supplementation.",K21.9
+679892,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+877517,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+217944,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+353923,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+106746,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+744514,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+461702,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+701311,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+197980,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+728381,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+453436,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+640389,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+119956,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+174302,"Atrial fibrillation detected, anticoagulation therapy initiated.",J45.909
+888323,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+571603,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+483170,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+983896,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+554925,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+707861,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+822420,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+722271,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+759613,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+438262,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+188702,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+340685,"Severe urinary tract infection, treated with IV antibiotics.",I10
+676735,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+732962,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+546438,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+974603,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+179580,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+457397,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+241263,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+380990,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+405883,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+977737,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+737842,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+134284,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+764281,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+142240,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+251089,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+129261,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+324906,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+424447,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+981138,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+288629,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+115716,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+204015,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+504269,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+584772,"Mild anemia observed, advised iron supplementation.",R07.9
+933327,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+181717,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+809109,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+991933,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+335923,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+409578,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+444197,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+139143,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+194647,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+819215,"Mild anemia observed, advised iron supplementation.",E11.9
+522169,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+599124,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+587851,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+824081,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+884489,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+738751,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+433111,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+327826,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+371379,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+965819,"Hyperlipidemia detected, patient advised on statin therapy.",F41.1
+398370,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+283537,"Mild anemia observed, advised iron supplementation.",M54.5
+533078,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+936773,"Mild anemia observed, advised iron supplementation.",E78.5
+200959,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+971306,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+579068,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+675311,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+301583,"Mild anemia observed, advised iron supplementation.",K21.9
+816357,"Mild anemia observed, advised iron supplementation.",K21.9
+944806,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+561064,"Mild anemia observed, advised iron supplementation.",M54.5
+862039,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+203351,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+567056,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+856524,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+637202,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+531667,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+145560,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+502305,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+532809,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+509879,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+524006,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+581384,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+682020,"History of coronary artery disease, underwent angioplasty last year.",N18.9
+542864,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+260422,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J18.9
+891652,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+182846,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+200950,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+737983,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+424446,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+602053,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+912210,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+601406,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+850696,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+497353,Hypertensive crisis. Patient stabilized with IV medication.,I10
+935236,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+947869,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+776054,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+523335,"History of coronary artery disease, underwent angioplasty last year.",N18.9
+748194,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+835511,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+938611,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+309536,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+791608,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+993389,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+689945,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+975486,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+808547,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+938951,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+549626,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+204706,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+674413,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+850330,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+710604,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+358903,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+121213,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+219207,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+993595,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+853825,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+109537,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+473075,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+484063,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+908962,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+365134,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+119124,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+192470,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+135005,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+265152,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+540147,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+412818,"Mild anemia observed, advised iron supplementation.",F41.1
+158084,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+814728,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+998413,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+951268,"Mild anemia observed, advised iron supplementation.",G44.209
+839441,"Mild anemia observed, advised iron supplementation.",F41.1
+504052,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+116143,"Mild anemia observed, advised iron supplementation.",G44.209
+748408,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+412163,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+255852,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+496155,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+762207,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+845004,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+721767,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+219814,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+194420,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E78.5
+583664,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+216116,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+323727,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+473267,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+218340,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+958540,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+498747,"Mild anemia observed, advised iron supplementation.",R07.9
+949769,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E03.9
+234175,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+934920,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+257004,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+275682,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+791187,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+677921,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+165847,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+515657,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+208522,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+377484,"Mild anemia observed, advised iron supplementation.",R07.9
+878566,"Mild anemia observed, advised iron supplementation.",J45.909
+822685,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+466987,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+503407,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+204051,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+206542,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+209013,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+178739,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+511650,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+223587,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+313190,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+296444,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+811109,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+181076,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+398307,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+679978,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+635064,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+538043,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+538064,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+213388,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+989766,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+355837,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+190957,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+666741,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+244828,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+193148,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+872534,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+922625,"Mild anemia observed, advised iron supplementation.",E78.5
+410208,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+781637,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+829385,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+291335,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+707498,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+481302,"Mild anemia observed, advised iron supplementation.",J18.9
+342953,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+577324,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+713111,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+396186,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+510907,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+625645,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+632262,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+326388,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+253484,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+425338,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+435025,"Mild anemia observed, advised iron supplementation.",F41.1
+898382,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+137424,"Mild anemia observed, advised iron supplementation.",J18.9
+521027,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+962750,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+759287,Hypertensive crisis. Patient stabilized with IV medication.,J18.9
+893964,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+219506,"Mild anemia observed, advised iron supplementation.",E78.5
+719241,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+322187,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+644803,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+178896,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+949561,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+864517,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+657431,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+796601,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+739962,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+522796,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+791895,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+555150,"Mild anemia observed, advised iron supplementation.",D64.9
+484747,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+724681,"Mild anemia observed, advised iron supplementation.",M54.5
+631252,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+775096,"Severe urinary tract infection, treated with IV antibiotics.",E11.9
+203335,"Mild anemia observed, advised iron supplementation.",R07.9
+945765,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+113639,"Mild anemia observed, advised iron supplementation.",L40.9
+302002,"Mild anemia observed, advised iron supplementation.",K21.9
+666778,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+200748,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+938630,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+218314,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+651381,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+639962,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+243252,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+843585,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+490319,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+655993,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+927743,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+957434,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+457124,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+405387,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+224118,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+811828,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+245792,"Mild anemia observed, advised iron supplementation.",E78.5
+717316,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+596295,"Mild anemia observed, advised iron supplementation.",E78.5
+393666,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+155044,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+639575,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E78.5
+937720,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+885913,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+164146,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+276015,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+499394,"Mild anemia observed, advised iron supplementation.",G44.209
+606135,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+590041,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+519346,"Severe urinary tract infection, treated with IV antibiotics.",D64.9
+373169,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+768090,"Mild anemia observed, advised iron supplementation.",R07.9
+713681,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+336229,"Severe urinary tract infection, treated with IV antibiotics.",D64.9
+849951,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+266802,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+967101,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+979084,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+381190,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+394276,"Atrial fibrillation detected, anticoagulation therapy initiated.",R07.9
+382617,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+162685,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+171690,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+471573,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+809872,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+265636,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+982033,"Mild anemia observed, advised iron supplementation.",I10
+821893,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+671545,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+807998,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+946767,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+663208,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+943201,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+923314,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+718144,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+296147,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+769120,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+540719,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E03.9
+801038,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+903286,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+492142,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+301169,"Mild anemia observed, advised iron supplementation.",F41.1
+870986,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+888108,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+206873,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+793697,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+259098,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+540711,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+984836,"Severe urinary tract infection, treated with IV antibiotics.",G47.33
+349130,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+944426,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+679925,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+883128,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+855704,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+916961,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+472329,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+201299,"Mild anemia observed, advised iron supplementation.",I25.10
+676301,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+570762,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+795240,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+500528,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+571619,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+103323,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+632885,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+894072,"Mild anemia observed, advised iron supplementation.",J18.9
+609432,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+485137,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+686568,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+378337,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+271804,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+353730,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+230224,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E03.9
+592945,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+268454,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+164203,"History of coronary artery disease, underwent angioplasty last year.",I10
+489461,"Severe urinary tract infection, treated with IV antibiotics.",I10
+134650,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+738696,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+600741,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+142860,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+922705,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+158950,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+359874,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+708508,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+585376,"Hyperlipidemia detected, patient advised on statin therapy.",F41.1
+651184,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+156639,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+636848,"Hyperlipidemia detected, patient advised on statin therapy.",J18.9
+559245,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+409245,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+773763,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+349669,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+507125,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+858209,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E78.5
+252305,"History of coronary artery disease, underwent angioplasty last year.",N18.9
+730359,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+188509,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+133347,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+311671,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+866491,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+567501,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+750296,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+722950,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,L40.9
+844474,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+376724,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M54.5
+416500,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+233778,"Mild anemia observed, advised iron supplementation.",G47.33
+701731,"Mild anemia observed, advised iron supplementation.",I25.10
+607315,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+130659,"Mild anemia observed, advised iron supplementation.",L40.9
+562712,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+108228,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+329633,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+230531,"Mild anemia observed, advised iron supplementation.",F41.1
+897343,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+798838,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+913388,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+212523,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+708627,"Severe urinary tract infection, treated with IV antibiotics.",I10
+256005,"Mild anemia observed, advised iron supplementation.",J45.909
+221418,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+277288,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+286521,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+747358,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+391965,"Mild anemia observed, advised iron supplementation.",N39.0
+459602,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,D64.9
+547766,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+522963,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+536227,"Mild anemia observed, advised iron supplementation.",M25.561
+811494,"Mild anemia observed, advised iron supplementation.",N39.0
+497448,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+386162,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+428946,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+773922,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+613714,"Mild anemia observed, advised iron supplementation.",D64.9
+698599,Hypertensive crisis. Patient stabilized with IV medication.,I25.10
+261446,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+465898,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+779312,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+733101,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+814253,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+860941,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+993613,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+661748,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+993440,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+441393,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+369756,"Mild anemia observed, advised iron supplementation.",G44.209
+458961,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+762388,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",F41.1
+611981,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+268878,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+792750,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+186612,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+721989,"Mild anemia observed, advised iron supplementation.",R07.9
+982708,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+163112,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+835437,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+919924,"Mild anemia observed, advised iron supplementation.",K50.90
+252699,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+206387,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+173249,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+272432,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+628812,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+894358,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+646940,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+986370,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+432267,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+853041,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+679315,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+118655,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+350275,"Mild anemia observed, advised iron supplementation.",K50.90
+738712,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+114152,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+662895,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+162928,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+633994,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+490424,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+354818,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+992649,"Mild anemia observed, advised iron supplementation.",J45.909
+681813,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+328985,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+639386,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+261886,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+588870,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+607283,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+934199,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+361549,"Mild anemia observed, advised iron supplementation.",K21.9
+330168,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+803416,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+258580,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+716484,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+515663,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+680001,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+816330,Hypertensive crisis. Patient stabilized with IV medication.,I10
+966443,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+207915,"Mild anemia observed, advised iron supplementation.",G47.33
+684949,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+967695,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+965011,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+743303,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+720782,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+647266,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+821656,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+529684,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+501764,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+882275,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+911269,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+724666,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+734119,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+804412,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+327331,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+963061,"Mild anemia observed, advised iron supplementation.",I25.10
+360975,"Severe urinary tract infection, treated with IV antibiotics.",I10
+730151,"Mild anemia observed, advised iron supplementation.",J45.909
+547666,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+857090,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+340842,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+328129,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+677378,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+297177,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+316320,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+174006,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+577342,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+437917,"Mild anemia observed, advised iron supplementation.",G44.209
+605537,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+783420,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+315924,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E03.9
+415441,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+978911,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+907904,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+762839,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+321032,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+352946,"Mild anemia observed, advised iron supplementation.",I48.91
+535458,"Mild anemia observed, advised iron supplementation.",E03.9
+627259,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+161513,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+671892,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+109466,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+760519,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+473775,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+905959,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+457526,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+810185,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E11.9
+599725,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+273598,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+727528,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+583376,"Mild anemia observed, advised iron supplementation.",G47.33
+497518,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+717370,"Mild anemia observed, advised iron supplementation.",M54.5
+682627,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+818799,"Mild anemia observed, advised iron supplementation.",I48.91
+878943,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+987703,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+690404,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+949592,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E78.5
+745243,"Mild anemia observed, advised iron supplementation.",M54.5
+280748,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+706661,"Mild anemia observed, advised iron supplementation.",L40.9
+530167,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+268468,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+696474,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+410269,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+909467,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+130956,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+387957,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+724392,Hypertensive crisis. Patient stabilized with IV medication.,K21.9
+415097,"Mild anemia observed, advised iron supplementation.",E03.9
+919699,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+119495,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+109240,"Mild anemia observed, advised iron supplementation.",K21.9
+856348,"Severe urinary tract infection, treated with IV antibiotics.",E11.9
+403544,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+897035,"History of coronary artery disease, underwent angioplasty last year.",I10
+996602,"Mild anemia observed, advised iron supplementation.",L40.9
+968101,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+724487,Hypertensive crisis. Patient stabilized with IV medication.,J18.9
+832842,"Mild anemia observed, advised iron supplementation.",E03.9
+255223,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+632323,"Mild anemia observed, advised iron supplementation.",D64.9
+287145,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+281789,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+330989,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+964288,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+451597,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+189121,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+224611,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+163204,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+537247,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+208490,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+885751,"Mild anemia observed, advised iron supplementation.",D64.9
+782161,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+217179,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+868984,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+497776,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+865312,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+998109,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+861728,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+636060,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+103557,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+802410,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+213432,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+302132,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+673693,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+968072,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+243257,"Mild anemia observed, advised iron supplementation.",I10
+388257,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+335633,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+238806,"Mild anemia observed, advised iron supplementation.",L40.9
+913884,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+421719,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+236471,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+277321,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+151722,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+345738,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+995309,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+167746,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+708305,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+834432,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+762995,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+726274,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+817441,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+214738,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+362514,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+422666,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+306205,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+938893,"Mild anemia observed, advised iron supplementation.",L40.9
+323752,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+108120,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+684706,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+767305,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+111159,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+397341,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+523173,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+599598,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+377839,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+196456,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+728023,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+681128,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+382078,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N18.9
+321615,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+813433,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+614670,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+255925,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+843816,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+952321,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+460436,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+756941,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+242926,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+407322,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+780746,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K50.90
+193011,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+925346,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+692778,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+349685,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+277805,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+425565,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+304509,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+452615,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+331290,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+418730,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+911986,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+590617,"History of coronary artery disease, underwent angioplasty last year.",N18.9
+942555,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+682117,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+794352,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+334502,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+554872,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+907233,"Hyperlipidemia detected, patient advised on statin therapy.",G44.209
+264503,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+634640,"Atrial fibrillation detected, anticoagulation therapy initiated.",E78.5
+526969,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+194599,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+418170,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+101532,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+526525,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+425332,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+378326,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+645913,"Mild anemia observed, advised iron supplementation.",J45.909
+134447,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+695404,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+275829,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+841189,Hypertensive crisis. Patient stabilized with IV medication.,J18.9
+617310,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+737867,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+561419,"Mild anemia observed, advised iron supplementation.",F41.1
+830397,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+101833,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+605073,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+293381,"Mild anemia observed, advised iron supplementation.",K50.90
+870253,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+849434,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+646115,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+469368,"Mild anemia observed, advised iron supplementation.",E03.9
+987263,"Hyperlipidemia detected, patient advised on statin therapy.",E78.5
+912375,"Severe urinary tract infection, treated with IV antibiotics.",D64.9
+949517,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+672177,"Atrial fibrillation detected, anticoagulation therapy initiated.",J45.909
+557742,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I10
+350967,"Mild anemia observed, advised iron supplementation.",F41.1
+270108,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+451368,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+522465,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+831352,"Mild anemia observed, advised iron supplementation.",D64.9
+928644,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+658593,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+843516,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+534337,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+337350,"Mild anemia observed, advised iron supplementation.",D64.9
+435158,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+520148,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+844551,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+816718,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+765967,"Mild anemia observed, advised iron supplementation.",N39.0
+486685,"Mild anemia observed, advised iron supplementation.",K21.9
+868599,"Mild anemia observed, advised iron supplementation.",I10
+458355,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+718243,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+968740,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+973893,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+704015,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+548102,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+774113,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+655942,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+700393,"Mild anemia observed, advised iron supplementation.",G47.33
+584862,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+896379,Hypertensive crisis. Patient stabilized with IV medication.,R07.9
+661020,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+762975,"Mild anemia observed, advised iron supplementation.",G44.209
+293995,"Atrial fibrillation detected, anticoagulation therapy initiated.",J45.909
+800628,"Mild anemia observed, advised iron supplementation.",F41.1
+623264,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+822959,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+636782,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+961640,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+362304,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+839764,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+143326,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+106764,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+163577,Hypertensive crisis. Patient stabilized with IV medication.,J18.9
+810454,"Mild anemia observed, advised iron supplementation.",E03.9
+537571,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+259695,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+660268,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+425619,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+696579,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+381187,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+414361,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+439131,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+741995,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+212325,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+408831,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+466064,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+990946,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+289742,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+751888,"Severe urinary tract infection, treated with IV antibiotics.",J18.9
+323385,Hypertensive crisis. Patient stabilized with IV medication.,I10
+788991,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+704919,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+474430,"Hyperlipidemia detected, patient advised on statin therapy.",M54.5
+447222,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+642008,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+231544,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+996268,"Severe urinary tract infection, treated with IV antibiotics.",I10
+697983,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+501661,"Mild anemia observed, advised iron supplementation.",K21.9
+221562,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+494188,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+717738,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+296793,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+439255,"History of coronary artery disease, underwent angioplasty last year.",F41.1
+903384,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+354207,"Mild anemia observed, advised iron supplementation.",K50.90
+664642,"Atrial fibrillation detected, anticoagulation therapy initiated.",K50.90
+929917,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+562086,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+966774,"Hyperlipidemia detected, patient advised on statin therapy.",K50.90
+424266,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+829127,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+565686,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+448565,Hypertensive crisis. Patient stabilized with IV medication.,E03.9
+893049,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+745374,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+501929,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+176947,"Mild anemia observed, advised iron supplementation.",M25.561
+521223,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+327889,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+770199,"Mild anemia observed, advised iron supplementation.",M25.561
+356332,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+549901,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+762284,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+202299,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+425133,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+903765,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+374797,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+573468,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+265010,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+856043,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+927003,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+439358,"Hyperlipidemia detected, patient advised on statin therapy.",I48.91
+914598,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N39.0
+523871,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+783253,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+451445,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+740103,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+542034,"History of coronary artery disease, underwent angioplasty last year.",D64.9
+442649,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I48.91
+487060,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+180619,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+526912,"Atrial fibrillation detected, anticoagulation therapy initiated.",E11.9
+757204,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+123362,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+861041,"Hyperlipidemia detected, patient advised on statin therapy.",J45.909
+346803,Hypertensive crisis. Patient stabilized with IV medication.,I10
+878218,"Atrial fibrillation detected, anticoagulation therapy initiated.",K21.9
+246531,"Mild anemia observed, advised iron supplementation.",I25.10
+141856,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+764281,"Mild anemia observed, advised iron supplementation.",D64.9
+122051,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+511063,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+808296,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+932088,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+699381,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+278168,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+934256,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+309865,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+654787,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+250001,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,F41.1
+237126,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+684066,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+256496,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+643713,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+644814,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E78.5
+517397,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+476221,"Mild anemia observed, advised iron supplementation.",I10
+874057,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+194610,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+760186,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+372375,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N18.9
+144052,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+795921,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+151672,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+250338,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+522435,"Hyperlipidemia detected, patient advised on statin therapy.",K21.9
+481222,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+329316,"Hyperlipidemia detected, patient advised on statin therapy.",N39.0
+638389,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+598890,"Mild anemia observed, advised iron supplementation.",J18.9
+300653,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+997692,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+851812,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+488449,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+397920,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+311188,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+365361,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+676452,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+869536,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+879461,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+904923,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+303722,"Severe urinary tract infection, treated with IV antibiotics.",R07.9
+658393,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K50.90
+997893,"Mild anemia observed, advised iron supplementation.",D64.9
+558721,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,D64.9
+989011,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+548545,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+113795,"Mild anemia observed, advised iron supplementation.",J45.909
+202424,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,L40.9
+681896,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+154139,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+725349,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M54.5
+237225,"Hyperlipidemia detected, patient advised on statin therapy.",N18.9
+443672,"Atrial fibrillation detected, anticoagulation therapy initiated.",I10
+761072,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+888416,Hypertensive crisis. Patient stabilized with IV medication.,N39.0
+630588,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+237658,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+188678,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+373158,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+128818,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+249625,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+163046,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K50.90
+481717,"Mild anemia observed, advised iron supplementation.",E03.9
+943225,"Mild anemia observed, advised iron supplementation.",M54.5
+379103,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+753277,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+226564,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M54.5
+970249,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I10
+146333,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+510595,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I48.91
+856762,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J45.909
+161979,"Mild anemia observed, advised iron supplementation.",G47.33
+456549,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+545539,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+418807,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+527121,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,I25.10
+797723,"Mild anemia observed, advised iron supplementation.",N18.9
+294741,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+702274,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+909750,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E03.9
+254059,"Mild anemia observed, advised iron supplementation.",R07.9
+332710,"Atrial fibrillation detected, anticoagulation therapy initiated.",I48.91
+742717,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+989336,"Atrial fibrillation detected, anticoagulation therapy initiated.",M54.5
+119181,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+351943,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+845270,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J45.909
+491234,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+486725,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+721973,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+609094,"Severe urinary tract infection, treated with IV antibiotics.",E11.9
+467330,"Severe urinary tract infection, treated with IV antibiotics.",I10
+761740,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+220383,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,R07.9
+706296,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+690087,"History of coronary artery disease, underwent angioplasty last year.",E11.9
+162230,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+716640,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+730825,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+875813,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,F41.1
+957456,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+794150,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+639786,"Severe urinary tract infection, treated with IV antibiotics.",I25.10
+705610,"Severe urinary tract infection, treated with IV antibiotics.",F41.1
+839714,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+170795,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J18.9
+572067,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+710307,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+877163,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E11.9
+602443,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+921346,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+716892,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,D64.9
+927763,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+389519,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+499622,Hypertensive crisis. Patient stabilized with IV medication.,E11.9
+112983,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+767161,"Mild anemia observed, advised iron supplementation.",M54.5
+545527,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+124847,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+416052,"Mild anemia observed, advised iron supplementation.",M54.5
+571718,"Severe urinary tract infection, treated with IV antibiotics.",D64.9
+162010,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+178784,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+757169,"History of coronary artery disease, underwent angioplasty last year.",E03.9
+976825,"Atrial fibrillation detected, anticoagulation therapy initiated.",E03.9
+234084,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",K21.9
+678188,"Mild anemia observed, advised iron supplementation.",J18.9
+444242,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+965119,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E78.5
+455650,"History of coronary artery disease, underwent angioplasty last year.",E78.5
+239386,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,N39.0
+264003,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+260276,Hypertensive crisis. Patient stabilized with IV medication.,G44.209
+353383,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+935795,"Hyperlipidemia detected, patient advised on statin therapy.",I10
+245963,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+917324,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,R07.9
+372289,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+783977,"Atrial fibrillation detected, anticoagulation therapy initiated.",M25.561
+806886,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+340788,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",R07.9
+215421,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N18.9
+566181,"Mild anemia observed, advised iron supplementation.",R07.9
+394703,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+335319,"Atrial fibrillation detected, anticoagulation therapy initiated.",I25.10
+610882,"Mild anemia observed, advised iron supplementation.",G47.33
+427640,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+769272,"Hyperlipidemia detected, patient advised on statin therapy.",I25.10
+893380,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+929478,"History of coronary artery disease, underwent angioplasty last year.",N39.0
+171571,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+299818,"Severe urinary tract infection, treated with IV antibiotics.",M25.561
+533351,"Mild anemia observed, advised iron supplementation.",N39.0
+898679,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+418744,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+507751,"Hyperlipidemia detected, patient advised on statin therapy.",E11.9
+503307,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+157336,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+922644,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+817697,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+128066,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+126078,"History of coronary artery disease, underwent angioplasty last year.",G47.33
+622248,Hypertensive crisis. Patient stabilized with IV medication.,I25.10
+998527,"Mild anemia observed, advised iron supplementation.",N18.9
+753735,"Mild anemia observed, advised iron supplementation.",K21.9
+256402,"Atrial fibrillation detected, anticoagulation therapy initiated.",N39.0
+156482,"History of coronary artery disease, underwent angioplasty last year.",I48.91
+976387,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+855449,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+318718,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,I25.10
+313105,"Mild anemia observed, advised iron supplementation.",F41.1
+310408,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+860247,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+643673,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G47.33
+768522,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",M25.561
+875291,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E03.9
+705878,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K50.90
+543075,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J18.9
+270776,Hypertensive crisis. Patient stabilized with IV medication.,I48.91
+630926,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+181504,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+429828,"Severe urinary tract infection, treated with IV antibiotics.",E03.9
+888191,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+625582,"Mild anemia observed, advised iron supplementation.",K50.90
+438135,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J18.9
+774271,Hypertensive crisis. Patient stabilized with IV medication.,G47.33
+450673,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+794244,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+197832,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+581437,"History of coronary artery disease, underwent angioplasty last year.",I10
+595346,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+916090,"Hyperlipidemia detected, patient advised on statin therapy.",L40.9
+739316,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+703345,"Severe urinary tract infection, treated with IV antibiotics.",M54.5
+314253,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E11.9
+442860,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+641398,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,E11.9
+537988,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+837783,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",L40.9
+859239,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+241071,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+501809,"History of coronary artery disease, underwent angioplasty last year.",M25.561
+997058,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+201188,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G44.209
+345359,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+479302,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,R07.9
+901715,"Mild anemia observed, advised iron supplementation.",N39.0
+507321,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+253227,Hypertensive crisis. Patient stabilized with IV medication.,M54.5
+751039,"Atrial fibrillation detected, anticoagulation therapy initiated.",G47.33
+752277,"History of coronary artery disease, underwent angioplasty last year.",G44.209
+310762,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+623043,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+593338,"Mild anemia observed, advised iron supplementation.",I10
+196862,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+332501,"Hyperlipidemia detected, patient advised on statin therapy.",G47.33
+374704,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+720874,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+261226,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,L40.9
+774715,"Severe urinary tract infection, treated with IV antibiotics.",D64.9
+674921,"History of coronary artery disease, underwent angioplasty last year.",R07.9
+597812,"Mild anemia observed, advised iron supplementation.",E03.9
+525587,"Severe urinary tract infection, treated with IV antibiotics.",I10
+377132,Hypertensive crisis. Patient stabilized with IV medication.,I10
+201406,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I25.10
+533707,"Mild anemia observed, advised iron supplementation.",G47.33
+404159,"Severe urinary tract infection, treated with IV antibiotics.",I48.91
+710753,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+280520,"Severe urinary tract infection, treated with IV antibiotics.",L40.9
+185710,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+832512,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,K21.9
+449466,Hypertensive crisis. Patient stabilized with IV medication.,M25.561
+605793,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",J45.909
+948740,"Atrial fibrillation detected, anticoagulation therapy initiated.",J18.9
+186557,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G47.33
+176314,"Mild anemia observed, advised iron supplementation.",I25.10
+363622,"Mild anemia observed, advised iron supplementation.",G44.209
+643471,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+700267,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G44.209
+204468,Hypertensive crisis. Patient stabilized with IV medication.,K50.90
+993185,Hypertensive crisis. Patient stabilized with IV medication.,E78.5
+853699,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+786620,"Mild anemia observed, advised iron supplementation.",G44.209
+741044,"Severe urinary tract infection, treated with IV antibiotics.",J45.909
+817977,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,G44.209
+647671,"Mild anemia observed, advised iron supplementation.",F41.1
+803365,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+319345,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+882657,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+592902,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,G47.33
+939961,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,F41.1
+685451,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+659929,"Severe urinary tract infection, treated with IV antibiotics.",I10
+943997,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+671211,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+873332,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+119212,Hypertensive crisis. Patient stabilized with IV medication.,L40.9
+530141,"Severe urinary tract infection, treated with IV antibiotics.",G44.209
+633584,Hypertensive crisis. Patient stabilized with IV medication.,F41.1
+272368,"Mild anemia observed, advised iron supplementation.",J45.909
+131588,"Atrial fibrillation detected, anticoagulation therapy initiated.",L40.9
+179201,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+643997,"Mild anemia observed, advised iron supplementation.",G44.209
+539451,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+943224,"Severe urinary tract infection, treated with IV antibiotics.",E11.9
+215811,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+124149,"History of coronary artery disease, underwent angioplasty last year.",I25.10
+918976,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,M25.561
+144734,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+142138,"Severe urinary tract infection, treated with IV antibiotics.",N18.9
+183817,"History of coronary artery disease, underwent angioplasty last year.",K21.9
+330169,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,K21.9
+463567,Hypertensive crisis. Patient stabilized with IV medication.,J45.909
+302424,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+170033,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,D64.9
+487070,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+866644,"History of coronary artery disease, underwent angioplasty last year.",K50.90
+567745,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,E78.5
+791328,"Severe urinary tract infection, treated with IV antibiotics.",K50.90
+170017,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,N39.0
+680825,"Atrial fibrillation detected, anticoagulation therapy initiated.",D64.9
+581641,"Severe urinary tract infection, treated with IV antibiotics.",K21.9
+484218,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,L40.9
+380380,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",G44.209
+207981,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+161518,Hypertensive crisis. Patient stabilized with IV medication.,N18.9
+583134,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I10
+326689,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E03.9
+848281,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E78.5
+195511,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+496599,Hypertensive crisis. Patient stabilized with IV medication.,I10
+615826,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+769737,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,N18.9
+743801,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M54.5
+121826,"Mild anemia observed, advised iron supplementation.",L40.9
+174397,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+855888,"Hyperlipidemia detected, patient advised on statin therapy.",D64.9
+168909,Hypertensive crisis. Patient stabilized with IV medication.,J18.9
+346304,"Severe urinary tract infection, treated with IV antibiotics.",E78.5
+550195,"History of coronary artery disease, underwent angioplasty last year.",J45.909
+426672,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+280976,"Hyperlipidemia detected, patient advised on statin therapy.",M25.561
+336796,"History of coronary artery disease, underwent angioplasty last year.",L40.9
+709020,"History of coronary artery disease, underwent angioplasty last year.",J18.9
+858743,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I48.91
+906722,"History of coronary artery disease, underwent angioplasty last year.",M54.5
+496923,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,J45.909
+462574,"Severe urinary tract infection, treated with IV antibiotics.",N39.0
+733432,"Atrial fibrillation detected, anticoagulation therapy initiated.",G44.209
+534194,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,M25.561
+992464,"Atrial fibrillation detected, anticoagulation therapy initiated.",F41.1
+414506,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,I48.91
+599080,"Atrial fibrillation detected, anticoagulation therapy initiated.",N18.9
+693089,Hypertensive crisis. Patient stabilized with IV medication.,D64.9
+200734,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,J18.9
+860369,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,G47.33
+722025,Patient admitted with chest pain and shortness of breath. ECG shows mild ST elevation.,K21.9
+695897,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I10
+919817,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",E11.9
+614177,Diabetic patient with uncontrolled glucose levels. Insulin therapy started.,M25.561
+665721,"Hyperlipidemia detected, patient advised on statin therapy.",R07.9
+274076,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",D64.9
+137382,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,J18.9
+322936,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",I25.10
+521693,"GERD symptoms worsening, recommended lifestyle modifications and PPI therapy.",N39.0
+885209,Diagnosed with pneumonia. Prescribed antibiotics and oxygen support.,E11.9
